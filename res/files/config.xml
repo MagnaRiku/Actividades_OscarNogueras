@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Enemies>
+	<Enemy id="S">
+		<HP>25</HP>
+		<ATK>35</ATK>
+		<DEF>10</DEF>
+		<A_SPD>1</A_SPD>
+		<XP>45</XP>
+		<WPN>5</WPN>
+		<WPN>0</WPN>
+	</Enemy>
+	
+	<Enemy id="A">
+		<HP>20</HP>
+		<ATK>40</ATK>
+		<DEF>7</DEF>
+		<A_SPD>1.2</A_SPD>
+		<XP>65</XP>
+		<WPN>3</WPN>
+		<WPN>7</WPN>
+	</Enemy>
+	
+	<Enemy id="L">
+		<HP>28</HP>
+		<ATK>21</ATK>
+		<DEF>12</DEF>
+		<A_SPD>1.5</A_SPD>
+		<XP>75</XP>
+		<WPN>2</WPN>
+		<WPN>6</WPN>
+	</Enemy>
+	
+	<Enemy id="R">
+		<HP>45</HP>
+		<ATK>30</ATK>
+		<DEF>11</DEF>
+		<A_SPD>1.1</A_SPD>
+		<XP>85</XP>
+		<WPN>8</WPN>
+	</Enemy>
+	
+	<Enemy id="C">
+		<HP>15</HP>
+		<ATK>30</ATK>
+		<DEF>9</DEF>
+		<A_SPD>0.9</A_SPD>
+		<XP>55</XP>
+		<WPN>9</WPN>
+	</Enemy>
+	
+	<Enemy id="B">
+		<HP>39</HP>
+		<ATK>55</ATK>
+		<DEF>3</DEF>
+		<A_SPD>0.8</A_SPD>
+		<XP>95</XP>
+		<WPN>1</WPN>
+		<WPN>4</WPN>
+	</Enemy>
+	
+	<Weapons>
+		<Weapon id="1">
+			<type>"Club"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="2">
+			<type>"Spear"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="3">
+			<type>"Bow"</type>
+			<reach>5</reach>
+		</Weapon>
+		
+		<Weapon id="4">
+			<type>"Axe"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="5">
+			<type>"Rapier"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="6">
+			<type>"Halberd"</type>
+			<reach>2</reach>
+		</Weapon>
+		
+		<Weapon id="7">
+			<type>"Dagger"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="8">
+			<type>"Chain"</type>
+			<reach>3</reach>
+		</Weapon>
+		
+		<Weapon id="9">
+			<type>"Staff"</type>
+			<reach>1</reach>
+		</Weapon>
+		
+		<Weapon id="0">
+			<type>"Longsword"</type>
+			<reach>1</reach>
+		</Weapon>
+	
+	</Weapons>
+</Enemies>
