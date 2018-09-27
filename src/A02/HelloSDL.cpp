@@ -70,7 +70,7 @@ int main(int argc, char *argv[])
 	bool quit = false;
 
 	while (!quit) {
-		SDL_RenderCopy(Renderer, bgTexture, nullptr);
+		//SDL_RenderCopy(Renderer, bgTexture, nullptr);
 		SDL_RenderPresent(Renderer);
 		SDL_RenderClear(Renderer);
 	}
